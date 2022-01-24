@@ -44,7 +44,7 @@ const Container = styled.div`
 const Description = () => {
   return (
     <Container>
-      <div className="bold_texts">Introducing GoodGang Labs' first project, Beergang NFT Avatar Collection.</div>
+      <div className="bold_texts">Introducing GoodGang Labs&apos; first project, Beergang NFT Avatar Collection.</div>
       <div className="texts">GoodGang Labs is building the Metaverse Private Web 3.0 community, and our mission is to make the world fun and a better place by helping people express their true identities and use their passion and talents to generate legitimate revenues.</div>
       <div className="texts">GoodGang Labs is made up of professionals with more than 10 years of experience in Metaverse, Community, Avatar, and AR related projects in global IT top tier companies (Facebook, Naver, Line, Snow, and more.) Currently, members live and work remotely in major global cities (San Francisco, Seoul, Hawaii, and Vancouver). The Beergang character has a unique charm that blends with the various experiences of the members.</div>
     </Container>

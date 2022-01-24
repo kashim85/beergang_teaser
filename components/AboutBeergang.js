@@ -84,7 +84,7 @@ const AboutBeergang = () => {
       <div className="texts"><span className="subtitle">The GOOD Web 3.0 Community on Metaverse</span></div>
       <div className="texts">Beergang is a collection of 10,000 unique NFT avatars built on the Homebrew Algorithm created by GoodGang Labs and stored on the Ethereum blockchain network and IPFS.</div>
       <div className="texts">Beergang holders will receive various membership benefits. Typically, you will receive a PASS to enter GangHouse, a private 3D metaverse Pub that will be launched in Q2 this year. In GangHouse, a real metaverse space, you will be able to experience and create together the future by communicating with members from various backgrounds with common interests (Web 3.0, Metaverse).</div>
-      <div className="texts">There will be more Beergang related updates soon, so please stay tuned!<br/>Stay tuned for the latest news and updates on GoodGang Labs' official Twitter and Discord.</div>
+      <div className="texts">There will be more Beergang related updates soon, so please stay tuned!<br/>Stay tuned for the latest news and updates on GoodGang Labs&apos; official Twitter and Discord.</div>
     </Container>
   )
 }
